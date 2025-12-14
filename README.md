@@ -11,7 +11,7 @@
 | Athena Tian   | @athenatian06     | [add here]   |
 | Sandy Zheng     | @sandyzhengg23  |   [add here]               |
 | Mercy Ifiegbu      | @mercy-ifi       |  [add here] |
-| Shreyosee Chowdhury       | @shreychow    |   [add here]         |
+| Shreyosee Chowdhury       | @shreychow    |   Data processing, data analysis, data cleaning and tuning, overfitting reduction through validation techniques         |
 
 ---
 
