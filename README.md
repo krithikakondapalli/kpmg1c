@@ -8,9 +8,9 @@
 | Name             | GitHub Handle | Contribution                                                             |
 |------------------|---------------|--------------------------------------------------------------------------|
 | Krithika Kondapalli    | @krithikakondapalli | Data collection, exploration, model selection, overall project coordination            |
-| Athena Tian   | @athenatian06     | [add here]   |
+| Athena Tian   | @athenatian06     | Random Forest model building, file and dataset mounting, context and business insights research   |
 | Sandy Zheng     | @sandyzhengg23  | Data exploration and EDA, model experimentation (Option B), interpretation of energy drivers and business insights|
-| Mercy Ifiegbu      | @mercy-ifi       |  [add here] |
+| Mercy Ifiegbu      | @mercy-ifi       |  Data exploration, brainstorming, and presentation coordination |
 | Shreyosee Chowdhury       | @shreychow    |   Data processing, data analysis, data cleaning and tuning, overfitting reduction through validation techniques         |
 
 ---
@@ -97,8 +97,8 @@ This project was completed as part of the Break Through Tech AI Fellowship at Co
 - Final Model: **Random Forest Regression**
 
 ### Why Random Forest?
-- Captures **non-linear relationships**
-- Robust to outliers and correlated features
+- Captures **non-linear relationships** 
+- Robust to outliers, thresholds, and correlated features
 - Automatically ranks feature importance
 
 ### Our Approaches
