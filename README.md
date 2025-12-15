@@ -9,7 +9,7 @@
 |------------------|---------------|--------------------------------------------------------------------------|
 | Krithika Kondapalli    | @krithikakondapalli | Data collection, exploration, model selection, overall project coordination            |
 | Athena Tian   | @athenatian06     | [add here]   |
-| Sandy Zheng     | @sandyzhengg23  |   [add here]               |
+| Sandy Zheng     | @sandyzhengg23  | Data exploration and EDA, model experimentation (Option B), interpretation of energy drivers and business insights|
 | Mercy Ifiegbu      | @mercy-ifi       |  [add here] |
 | Shreyosee Chowdhury       | @shreychow    |   Data processing, data analysis, data cleaning and tuning, overfitting reduction through validation techniques         |
 
