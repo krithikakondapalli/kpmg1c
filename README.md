@@ -33,6 +33,16 @@
 
 ---
 
+## 📁 Repository Structure
+
+- `Data_ML_Energy/` — ML Energy Leaderboard datasets used in analysis  
+- `scripts/` — data cleaning, preprocessing, and plotting scripts  
+- `results/` — generated figures and intermediate outputs  
+- `Final_Notebook.ipynb` — end-to-end EDA, modeling, and analysis  
+- `FinalPresentation_KPMG1C.pdf` — final presentation
+
+---
+
 ## 🏗️ **Project Overview**
 
 This project was completed as part of the Break Through Tech AI Fellowship at Cornell Tech, in collaboration with KPMG as the AI Studio host company.
